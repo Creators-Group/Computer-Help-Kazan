@@ -23,14 +23,14 @@
 <table>
 <tbody>
 <tr>
-<td>WhatsApp: <strong>+7 123 456 78 90</strong></td>
+<td>WhatsApp: <strong>+7 939 364 55 40</strong></td>
 </tr>
 </tbody>
 </table>
 <table>
 <tbody>
 <tr>
-<td>Telegram:&nbsp;<strong>+7 123 456 78 90</strong></td>
+<td>Telegram: <strong>+7 939 364 55 40</strong></td>
 </tr>
 </tbody>
 </table>
@@ -52,14 +52,14 @@
 <table>
 <tbody>
 <tr>
-<td>WhatsApp: <strong>+7 123 456 78 90</strong></td>
+<td>WhatsApp: <strong>+7 939 364 55 40</strong></td>
 </tr>
 </tbody>
 </table>
 <table>
 <tbody>
 <tr>
-<td>Telegram:&nbsp;<strong>+7 123 456 78 90</strong></td>
+<td>Telegram: <strong>+7 939 364 55 40</strong></td>
 </tr>
 </tbody>
 </table>
