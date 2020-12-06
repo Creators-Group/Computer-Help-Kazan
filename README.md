@@ -1,5 +1,10 @@
-
-<p>&nbsp;<strong>компьютерная помощь в казани</strong></p>
+<table>
+<tbody>
+<tr>
+<td>&nbsp;<strong>компьютерная помощь в казани</strong></td>
+</tr>
+</tbody>
+</table>
 <p><img src="https://cache3.youla.io/files/images/360_360/5c/1e/5c1e0fd9eef141d7e775c7a4.jpg" alt="" width="250" height="250" /></p>
 <table>
 <tbody>
@@ -18,14 +23,14 @@
 <table>
 <tbody>
 <tr>
-<td>WhatsApp: <strong>+7 939 364 55 40</strong></td>
+<td>WhatsApp: <strong>+7 123 456 78 90</strong></td>
 </tr>
 </tbody>
 </table>
 <table>
 <tbody>
 <tr>
-<td>Telegram:&nbsp;<strong>+7 939 364 55 40</strong></td>
+<td>Telegram:&nbsp;<strong>+7 123 456 78 90</strong></td>
 </tr>
 </tbody>
 </table>
@@ -47,14 +52,14 @@
 <table>
 <tbody>
 <tr>
-<td>WhatsApp: <strong>+7 939 364 55 40</strong></td>
+<td>WhatsApp: <strong>+7 123 456 78 90</strong></td>
 </tr>
 </tbody>
 </table>
 <table>
 <tbody>
 <tr>
-<td>Telegram:&nbsp;<strong>+7 939 364 55 40</strong></td>
+<td>Telegram:&nbsp;<strong>+7 123 456 78 90</strong></td>
 </tr>
 </tbody>
 </table>
